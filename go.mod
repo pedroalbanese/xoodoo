@@ -1,4 +1,4 @@
-module github.com/inmcm/xoodoo
+module github.com/pedroalbanese/xoodoo
 
 go 1.13
 

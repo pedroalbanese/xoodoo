@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/inmcm/xoodoo/xoodoo"
+	"github.com/pedroalbanese/xoodoo/xoodoo"
 
 	"github.com/stretchr/testify/assert"
 )

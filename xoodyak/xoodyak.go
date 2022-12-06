@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/inmcm/xoodoo/xoodoo"
+	"github.com/pedroalbanese/xoodoo/xoodoo"
 )
 
 const (

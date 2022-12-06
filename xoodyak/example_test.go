@@ -1,4 +1,4 @@
-package xoodyak_test
+﻿package xoodyak_test
 
 import (
 	"bytes"
@@ -7,7 +7,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/inmcm/xoodoo/xoodyak"
+	"github.com/pedroalbanese/xoodoo/xoodyak"
 )
 
 func ExampleHashXoodyak() {

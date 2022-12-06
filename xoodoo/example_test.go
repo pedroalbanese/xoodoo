@@ -3,7 +3,7 @@ package xoodoo_test
 import (
 	"fmt"
 
-	"github.com/inmcm/xoodoo/xoodoo"
+	"github.com/pedroalbanese/xoodoo/xoodoo"
 )
 
 func Example() {
